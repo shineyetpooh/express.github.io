@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <table>
+        <tr>
+            <td>username:</td>
+            <td><input id="username" type="text" /></td>
+        </tr>
+        <tr>
+            <td>password:</td>
+            <td><input id="password" type="text" /></td>
+        </tr>
+        <tr>
+            <td><input id="Button1" type="button" value="button" /></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
